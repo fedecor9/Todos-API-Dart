@@ -6,7 +6,7 @@
 
 Todos API built with dart_frog
 
-###Running the app
+### Running the app
 
 To run the app you need to enter the following command ```dart_frog dev``` in the console at the root folder
 
