@@ -6,6 +6,10 @@
 
 Todos API built with dart_frog
 
+###Running the app
+
+To run the app you need to enter the following command ```dart_frog dev``` in the console at the root folder
+
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
